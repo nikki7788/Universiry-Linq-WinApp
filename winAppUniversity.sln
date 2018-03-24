@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "winAppUniversity", "winAppUniversity\winAppUniversity.csproj", "{B978F956-BAD7-4A20-BFC0-4D79DCBD8253}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{C8A4634A-AC9F-4209-95F2-013EF2A61E14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B978F956-BAD7-4A20-BFC0-4D79DCBD8253}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B978F956-BAD7-4A20-BFC0-4D79DCBD8253}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B978F956-BAD7-4A20-BFC0-4D79DCBD8253}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B978F956-BAD7-4A20-BFC0-4D79DCBD8253}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8A4634A-AC9F-4209-95F2-013EF2A61E14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8A4634A-AC9F-4209-95F2-013EF2A61E14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8A4634A-AC9F-4209-95F2-013EF2A61E14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8A4634A-AC9F-4209-95F2-013EF2A61E14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2317E4B8-C32C-414D-B3BE-8051A788EA4A}
+	EndGlobalSection
+EndGlobal
