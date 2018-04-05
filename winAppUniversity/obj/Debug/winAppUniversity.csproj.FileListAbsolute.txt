@@ -15,3 +15,20 @@ E:\learning programming with barbod\homework\WinApp\winAppUniversity\winAppUnive
 E:\learning programming with barbod\homework\WinApp\winAppUniversity\winAppUniversity\obj\Debug\winAppUniversity.exe
 E:\learning programming with barbod\homework\WinApp\winAppUniversity\winAppUniversity\obj\Debug\winAppUniversity.pdb
 E:\learning programming with barbod\homework\WinApp\winAppUniversity\winAppUniversity\obj\Debug\winAppUniversity.Form1.resources
+E:\learning programming with barbod\homework\source Tree\University-WinApp-linq\winAppUniversity\bin\Debug\winAppUniversity.exe.config
+E:\learning programming with barbod\homework\source Tree\University-WinApp-linq\winAppUniversity\bin\Debug\winAppUniversity.exe
+E:\learning programming with barbod\homework\source Tree\University-WinApp-linq\winAppUniversity\bin\Debug\winAppUniversity.pdb
+E:\learning programming with barbod\homework\source Tree\University-WinApp-linq\winAppUniversity\bin\Debug\EntityFramework.dll
+E:\learning programming with barbod\homework\source Tree\University-WinApp-linq\winAppUniversity\bin\Debug\EntityFramework.SqlServer.dll
+E:\learning programming with barbod\homework\source Tree\University-WinApp-linq\winAppUniversity\bin\Debug\Model.dll
+E:\learning programming with barbod\homework\source Tree\University-WinApp-linq\winAppUniversity\bin\Debug\Model.pdb
+E:\learning programming with barbod\homework\source Tree\University-WinApp-linq\winAppUniversity\bin\Debug\Model.dll.config
+E:\learning programming with barbod\homework\source Tree\University-WinApp-linq\winAppUniversity\bin\Debug\EntityFramework.xml
+E:\learning programming with barbod\homework\source Tree\University-WinApp-linq\winAppUniversity\bin\Debug\EntityFramework.SqlServer.xml
+E:\learning programming with barbod\homework\source Tree\University-WinApp-linq\winAppUniversity\obj\Debug\winAppUniversity.csprojResolveAssemblyReference.cache
+E:\learning programming with barbod\homework\source Tree\University-WinApp-linq\winAppUniversity\obj\Debug\winAppUniversity.Form1.resources
+E:\learning programming with barbod\homework\source Tree\University-WinApp-linq\winAppUniversity\obj\Debug\winAppUniversity.Properties.Resources.resources
+E:\learning programming with barbod\homework\source Tree\University-WinApp-linq\winAppUniversity\obj\Debug\winAppUniversity.csproj.GenerateResource.Cache
+E:\learning programming with barbod\homework\source Tree\University-WinApp-linq\winAppUniversity\obj\Debug\winAppUniversity.csproj.CoreCompileInputs.cache
+E:\learning programming with barbod\homework\source Tree\University-WinApp-linq\winAppUniversity\obj\Debug\winAppUniversity.exe
+E:\learning programming with barbod\homework\source Tree\University-WinApp-linq\winAppUniversity\obj\Debug\winAppUniversity.pdb

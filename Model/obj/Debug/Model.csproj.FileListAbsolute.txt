@@ -11,3 +11,16 @@ E:\learning programming with barbod\homework\WinApp\winAppUniversity\Model\obj\D
 E:\learning programming with barbod\homework\WinApp\winAppUniversity\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
 E:\learning programming with barbod\homework\WinApp\winAppUniversity\Model\obj\Debug\Model.Migrations.Itialize.resources
 E:\learning programming with barbod\homework\WinApp\winAppUniversity\Model\obj\Debug\Model.csproj.GenerateResource.Cache
+E:\learning programming with barbod\homework\source Tree\University-WinApp-linq\Model\bin\Debug\Model.dll.config
+E:\learning programming with barbod\homework\source Tree\University-WinApp-linq\Model\bin\Debug\Model.dll
+E:\learning programming with barbod\homework\source Tree\University-WinApp-linq\Model\bin\Debug\Model.pdb
+E:\learning programming with barbod\homework\source Tree\University-WinApp-linq\Model\bin\Debug\EntityFramework.dll
+E:\learning programming with barbod\homework\source Tree\University-WinApp-linq\Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\learning programming with barbod\homework\source Tree\University-WinApp-linq\Model\bin\Debug\EntityFramework.xml
+E:\learning programming with barbod\homework\source Tree\University-WinApp-linq\Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\learning programming with barbod\homework\source Tree\University-WinApp-linq\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\learning programming with barbod\homework\source Tree\University-WinApp-linq\Model\obj\Debug\Model.Migrations.Itialize.resources
+E:\learning programming with barbod\homework\source Tree\University-WinApp-linq\Model\obj\Debug\Model.csproj.GenerateResource.Cache
+E:\learning programming with barbod\homework\source Tree\University-WinApp-linq\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\learning programming with barbod\homework\source Tree\University-WinApp-linq\Model\obj\Debug\Model.dll
+E:\learning programming with barbod\homework\source Tree\University-WinApp-linq\Model\obj\Debug\Model.pdb
